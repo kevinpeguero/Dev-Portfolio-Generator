@@ -1,0 +1,18 @@
+{
+    "name": "dev-portfolio-gen",
+    "version": "1.0.0",
+    "description": "Developer Profile Generator",
+    "main": "index.js",
+    "start": "null",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kevin Peguero",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "inquirer": "^7.0.4",
+      "puppeteer": "^2.1.0"
+    }
+  }
+  
